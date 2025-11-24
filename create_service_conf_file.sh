@@ -1,15 +1,4 @@
-# 6 args
-#====================
-# 0 => file name(unused arg)
-# 1 => user_group name "ai_usr" 
-# 2 => application_path "/va/www/app_path"
-# 3 => domain name "www.demo.com"
-# 4 => reverse_proxy_port server domain port "9089"
-# 5 => other_bin_path ":/opt/jdk-12.0.1/bin" if application has java or other bin depandancy
-
-# example :./file.sh user_group="ai_usr" application_path="/var/www/mywizard-pythonapps/automation" domain="hello-demo.com.hello" reverse_proxy_port="8090" other_bin_path=":/opt/jdk-12.0.1/bin"
-
-reverse_proxy_port=''
+ 
 domain=''
 application_path=''
 user_group=''
