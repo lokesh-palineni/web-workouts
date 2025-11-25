@@ -1,0 +1,78 @@
+User Story 1: Account Login & Authentication
+Description: As a customer, I want to securely log in to my online banking account using my credentials so that I can access my financial information.
+
+Acceptance Criteria:
+
+User can log in with valid username and password.
+
+System enforces strong password rules.
+
+Two-factor authentication (OTP via SMS/email) is required.
+
+Error message is displayed for invalid credentials.
+
+Session timeout after 15 minutes of inactivity.
+
+Story Points: 5
+
+User Story 2: View Account Balance
+Description: As a customer, I want to view my account balance in real time so that I can track my finances.
+
+Acceptance Criteria:
+
+Balance is displayed immediately after login.
+
+Balance reflects latest transactions (including pending).
+
+User can view balances for multiple linked accounts.
+
+Data refreshes automatically or on manual refresh.
+
+Story Points: 3
+
+User Story 3: Fund Transfer Between Accounts
+Description: As a customer, I want to transfer funds between my own accounts or to another beneficiary so that I can manage payments easily.
+
+Acceptance Criteria:
+
+User can select source and destination accounts.
+
+User can enter transfer amount and description.
+
+Confirmation screen before final submission.
+
+Transaction receipt generated after successful transfer.
+
+Error message for insufficient funds.
+
+Story Points: 8
+
+User Story 4: Transaction History
+Description: As a customer, I want to view my transaction history so that I can track spending and verify payments.
+
+Acceptance Criteria:
+
+User can view transactions for the last 6 months.
+
+Transactions include date, description, amount, and balance.
+
+User can filter by date range, transaction type, or amount.
+
+Export option available (PDF/Excel).
+
+Story Points: 5
+
+User Story 5: Alerts & Notifications
+Description: As a customer, I want to receive alerts for important account activities so that I can stay informed and secure.
+
+Acceptance Criteria:
+
+User receives SMS/email alerts for large transactions.
+
+Alerts for failed login attempts.
+
+Notifications for low balance thresholds.
+
+User can customize notification preferences.
+
+Story Points:
