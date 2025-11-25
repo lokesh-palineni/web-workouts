@@ -1,0 +1,2 @@
+This is the second new file.
+Generated and moved automatically.
